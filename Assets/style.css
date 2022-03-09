@@ -1,0 +1,50 @@
+.navbar {
+height: 100px;
+}
+
+#firstBoxes {
+    margin: 50px 50px 50px 50px;
+    border: solid 1px black;
+    padding: 15px;
+    background-color: grey;
+}
+img {
+    height: auto;
+    width: auto;
+
+}
+.col {
+height: 300px;
+width: 400px;
+margin: 20px;
+text-align: center;
+}
+
+.col img {
+    height: 250px; width: 350px;
+    }
+
+.col :hover {
+    transform: scale(1.15);
+    }
+
+footer {
+    background-color: grey;
+    height: 125px;
+    font-size: larger;
+    color: black;
+}
+
+li {
+    color: black;
+}
+/* When you hover over a list item it changes background color and font */
+li a:hover {
+    background-color: white;
+    color: green;
+}
+
+/* Once you have visited the link it turns red */
+a:visited {
+    color: rgb(248, 123, 144);
+}
