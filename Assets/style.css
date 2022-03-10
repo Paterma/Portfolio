@@ -2,18 +2,25 @@
 height: 100px;
 }
 
+.navbar-brand{
+    font-size: x-large;
+}
+
 body {
     background: rgb(74,74,77);
     background: linear-gradient(23deg, rgba(74,74,77,1) 0%, rgba(168,168,173,1) 50%, rgba(238,252,255,1) 100%);
 }
 #firstBoxes {
-    margin: 50px 50px 50px 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
     border: solid 1px black;
     padding: 15px;
     background-image: url("https://cdn.shopify.com/s/files/1/2486/4354/products/Peter-Lik-Into-the-Mist-Framed-Recess-Mount_1800x.jpg?v=1585081774");
     background-size: cover;
     color: white;
-    font-size: larger;
+
 }
 img {
     height: auto;
@@ -45,18 +52,20 @@ footer {
     height: 125px;
     font-size: larger;
     color: black;
+    padding-top: 20px;
 }
 
 li {
     color: black;
+    border-right: 3px solid rgb(255, 255, 255);
 }
 /* When you hover over a list item it changes background color and font */
 li a:hover {
-    background-color: white;
+    background-color: rgb(180, 180, 180);
     color: green;
 }
 
 /* Once you have visited the link it turns red */
-a:visited {
+/* a:visited {
     color: rgb(248, 123, 144);
-}
+} */
