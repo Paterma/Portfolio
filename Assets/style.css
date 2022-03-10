@@ -1,16 +1,20 @@
+/* Styling the navbar */
 .navbar {
 height: 100px;
 }
 
+/* Giving the navbar font style */
 .navbar-brand{
     font-size: xx-large;
     text-shadow: 0 0 20px rgb(103, 103, 104), 0 0 20px #4e476e, 0 0 20px #583c7e, 0 0 30px #8971b6, 0 0 30px #a19fa0, 0 0 30px #a997c7, 0 0 40px #837991;
+    font-family: 'La Belle Aurore', cursive; 
 }
-
+/* Styling the background of the page */
 body {
     background: rgb(74,74,77);
     background: linear-gradient(23deg, rgba(74,74,77,1) 0%, rgba(168,168,173,1) 50%, rgba(238,252,255,1) 100%);
 }
+/* This is the main box with text description/profile photo */
 #firstBoxes {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -21,29 +25,32 @@ body {
     background-image: url("https://cdn.shopify.com/s/files/1/2486/4354/products/Peter-Lik-Into-the-Mist-Framed-Recess-Mount_1800x.jpg?v=1585081774");
     background-size: cover;
     color: white;
-
+    text-shadow: 0 0 20px rgb(103, 103, 104), 0 0 20px #4e476e, 0 0 20px #583c7e, 0 0 30px #8971b6, 0 0 30px #a19fa0, 0 0 30px #a997c7, 0 0 40px #837991;
 }
+
+/* The image styling */
 img {
     height: 275px;
     width: auto;
     border: 5px black solid;
 
 }
+
+/* Stlying the containers holding the photo links */
 .container {
 font-weight: bold;
 font-family: 'Syne Mono', monospace !important;
+font-size: large;
 text-align: center;
 margin-bottom: 20px;
 }
 
-.lowerBoxes img {
-    /* height: 275px; width: 350px; */
-    }
-
+/* Giving the photos a enlargment when hovered over */
 .lowerBoxes :hover {
     transform: scale(1.15);
     }
 
+    /* Styling the footer */
 footer {
     background-image: url("https://c1.wallpaperflare.com/preview/601/197/81/rain-floor-water-wet.jpg");
     background-size: cover;
@@ -53,13 +60,22 @@ footer {
     padding-top: 20px;
 }
 
+/* Styling the lists */
 li {
     color: black;
-    border-right: 2px solid rgb(255, 255, 255);
     padding: 3px;
     font-weight: bold;
 }
+
 /* When you hover over a list item it changes background color and font */
 li a:hover {
     background-color: rgb(134, 134, 134);
 }
+/* Changing the link colors to stand out more */
+li a:link {
+    color: rgb(255, 255, 255) !important;
+  }
+/* Change the link colors once visited */
+li a:visited {
+    color: rgb(180, 166, 202) !important;
+  }
