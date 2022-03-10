@@ -3,7 +3,8 @@ height: 100px;
 }
 
 .navbar-brand{
-    font-size: x-large;
+    font-size: xx-large;
+    text-shadow: 0 0 20px rgb(103, 103, 104), 0 0 20px #4e476e, 0 0 20px #583c7e, 0 0 30px #8971b6, 0 0 30px #a19fa0, 0 0 30px #a997c7, 0 0 40px #837991;
 }
 
 body {
@@ -23,26 +24,22 @@ body {
 
 }
 img {
-    height: auto;
+    height: 275px;
     width: auto;
     border: 5px black solid;
 
 }
-.col {
-height: 300px;
-width: 400px;
-margin: 20px;
-text-align: center;
-font-size: x-large;
+.container {
 font-weight: bold;
 font-family: 'Syne Mono', monospace !important;
+text-align: center;
 }
 
-.col img {
-    height: 250px; width: 350px;
+.lowerBoxes img {
+    /* height: 275px; width: 350px; */
     }
 
-.col :hover {
+.lowerBoxes :hover {
     transform: scale(1.15);
     }
 
@@ -57,15 +54,11 @@ footer {
 
 li {
     color: black;
-    border-right: 3px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
+    padding: 3px;
+    font-weight: bold;
 }
 /* When you hover over a list item it changes background color and font */
 li a:hover {
-    background-color: rgb(180, 180, 180);
-    color: green;
+    background-color: rgb(134, 134, 134);
 }
-
-/* Once you have visited the link it turns red */
-/* a:visited {
-    color: rgb(248, 123, 144);
-} */
