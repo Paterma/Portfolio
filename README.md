@@ -51,4 +51,4 @@ I am submitting BOTH of the following for review:
 
 * The URL of the GitHub repository that contains my code- https://github.com/Paterma/Portfolio
 
-![Portfolio Screenshot](/Assets/Portfolio-Screenshot.PNG)
+![Portfolio Screenshot](/Assets/Screenshot-2.PNG)

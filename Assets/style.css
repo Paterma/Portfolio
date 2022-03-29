@@ -22,6 +22,7 @@ body {
     margin-right: 10px;
     border: solid 1px black;
     padding: 15px;
+    padding-top: 25px;
     background-image: url("https://cdn.shopify.com/s/files/1/2486/4354/products/Peter-Lik-Into-the-Mist-Framed-Recess-Mount_1800x.jpg?v=1585081774");
     background-size: cover;
     color: white;
@@ -30,7 +31,7 @@ body {
 
 /* The image styling */
 img {
-    height: 275px;
+    height: 300px;
     width: auto;
     border: 5px black solid;
 
