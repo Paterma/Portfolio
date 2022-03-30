@@ -16,13 +16,15 @@ body {
 }
 /* This is the main box with text description/profile photo */
 #firstBoxes {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
     margin-left: 10px;
     margin-right: 10px;
     border: solid 1px black;
     padding: 15px;
-    padding-top: 25px;
+    justify-content: center;
+    padding-top: 35px;
     background-image: url("https://cdn.shopify.com/s/files/1/2486/4354/products/Peter-Lik-Into-the-Mist-Framed-Recess-Mount_1800x.jpg?v=1585081774");
     background-size: cover;
     color: white;
@@ -33,7 +35,7 @@ body {
 img {
     height: 300px;
     width: auto;
-    border: 5px black solid;
+    border: 5px rgb(23, 2, 48) solid;
 
 }
 
@@ -80,3 +82,23 @@ li a:link {
 li a:visited {
     color: rgb(180, 166, 202) !important;
   }
+
+.tech {
+      color: rgb(57, 14, 100);
+      font-size: medium;
+  }
+
+  .d-block {
+    height: 425px !important;
+    width: 425px !important;
+    justify-content: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    align-items: center !important;
+    margin-bottom: 20px!important;
+    margin-top: 20px!important;
+}
+.carousel-inner {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

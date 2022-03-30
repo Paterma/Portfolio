@@ -33,16 +33,20 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## The Work
 
-For this project I have created a portofilio that showcases my current work (which is really nothing yet since this is my first week, but I will add to it as I create and design projects). The creation of this portfolio is part of of the work that I am currently showcasing. 
+For this project I have created a portofilio that showcases my current work. The creation of this portfolio is part of of the work that I am currently showcasing. 
 I have met all the requirements for this project including:
 1) A header that has my name and links to sections on the page, as well as effects for those links when hovered over and clicked
-2) A main description box with a recent photo of myself
+2) A main description container with a recent photo of myself
 3) The scroll feature that will you take you to the corresponding section when you click a link in the header
 4) Images that enlarge when they are hovered over
 5) Images that take you to a new designated webpage which opens in a new tab when clicked
 6) A page and nav bar that adapts to fit the viewport
 7) Styling and effects to enhance the look of the page
-
+8) Links to every project repo that open in a new window
+9) Brief descriptions of each project
+10) A downloadable PDF of my resume, as well as links to LinkedIn, Github, and an option to email me
+11) The use of Bootstrap, HTML, and CSS
+12) Screenshots of my projects
 ## Review
 
 I am submitting BOTH of the following for review:
