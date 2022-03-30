@@ -5,7 +5,7 @@ height: 140px;
 
 /* Giving the navbar font style */
 .navbar-brand{
-    font-size: xx-large;
+    font-size: 40px;
     text-shadow: 0 0 20px rgb(103, 103, 104), 0 0 20px #4e476e, 0 0 20px #583c7e, 0 0 30px #8971b6, 0 0 30px #a19fa0, 0 0 30px #a997c7, 0 0 40px #837991;
     font-family: 'La Belle Aurore', cursive; 
 }
