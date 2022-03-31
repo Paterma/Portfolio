@@ -89,11 +89,11 @@ li a:visited {
 }
 /* Styling for h2 abover carousel */
 h2 {
-    text-align: center;
-    color: rgb(57, 14, 100);
-    font-family: 'La Belle Aurore', cursive; 
-    font-size: 35px;
-    text-shadow: 0 0 10px rgb(200, 200, 201), 0 0 10px #908f94, 0 0 10px rgb(186, 175, 202), 0 0 10px #bcb7c5, 0 0 20px #a19fa0, 0 0 20px #f3f2f5, 0 0 20px #837991;
+    text-align: center !important;
+    color: rgb(57, 14, 100) !important;
+    font-family: 'La Belle Aurore', cursive !important; 
+    font-size: 35px !important;
+    text-shadow: 0 0 10px rgb(200, 200, 201), 0 0 10px #908f94, 0 0 10px rgb(186, 175, 202), 0 0 10px #bcb7c5, 0 0 20px #a19fa0, 0 0 20px #f3f2f5, 0 0 20px #837991 !important;
 }
 /* stlying for carousel */
 .d-block {
