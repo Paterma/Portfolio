@@ -45,7 +45,7 @@ I have met all the requirements for this project including:
 8) Links to every project repo that open in a new window
 9) Brief descriptions of each project
 10) A downloadable PDF of my resume, as well as links to LinkedIn, Github, and an option to email me
-11) The use of Bootstrap, HTML, and CSS
+11) The use of Bootstrap, HTML, JavaScript, and CSS
 12) Screenshots of my projects
 ## Review
 
@@ -55,4 +55,6 @@ I am submitting BOTH of the following for review:
 
 * The URL of the GitHub repository that contains my code- https://github.com/Paterma/Portfolio
 
-![Portfolio Screenshot](/Assets/Screenshot-2.PNG)
+![Portfolio Screenshot](/Assets/updated1.PNG)
+![Portfolio Screenshot](/Assets/updated2.PNG)
+![Portfolio Screenshot](/Assets/updated3.PNG)

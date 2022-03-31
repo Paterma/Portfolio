@@ -87,6 +87,13 @@ li a:visited {
       color: rgb(57, 14, 100);
       font-size: medium;
   }
+  h2 {
+      text-align: center;
+      color: rgb(57, 14, 100);
+      font-family: 'La Belle Aurore', cursive; 
+      font-size: 35px;
+      text-shadow: 0 0 10px rgb(200, 200, 201), 0 0 10px #908f94, 0 0 10px rgb(186, 175, 202), 0 0 10px #bcb7c5, 0 0 20px #a19fa0, 0 0 20px #f3f2f5, 0 0 20px #837991;
+  }
 
   .d-block {
     height: 425px !important;
