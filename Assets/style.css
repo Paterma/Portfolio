@@ -102,8 +102,8 @@ h2 {
 }
 /* stlying for carousel */
 .d-block {
-    height: 425px !important;
-    width: 425px !important;
+    height: 400px !important;
+    width: 400px !important;
     justify-content: center !important;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -114,4 +114,12 @@ h2 {
 .carousel-inner {
   margin-left: auto !important;
   margin-right: auto !important;
+}
+h3 {
+    transform: none !important;
+    font-weight: bold;
+    color: rgb(45, 2, 87) !important;
+    /* text-shadow: 0 0 10px rgb(200, 200, 201), 0 0 10px #908f94, 0 0 10px rgb(186, 175, 202), 0 0 10px #bcb7c5, 0 0 20px #a19fa0, 0 0 20px #f3f2f5, 0 0 20px #837991 !important; */
+    padding-top: 25px;
+    font-size: 23px;
 }
