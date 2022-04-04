@@ -53,6 +53,11 @@ margin-bottom: 50px;
     transform: scale(1.15);
     }
 
+    /* .lowerBoxes {
+        display: flex !important;
+        flex-wrap: wrap !important;
+    } */
+
     /* Styling the footer */
 footer {
     background-image: url("https://c1.wallpaperflare.com/preview/601/197/81/rain-floor-water-wet.jpg");
